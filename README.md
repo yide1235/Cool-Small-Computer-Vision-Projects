@@ -9,5 +9,5 @@ A collection of vision,graphics projects, they are all kinds of assignments and 
 ![](./pics/5.png)  |  ![](./pics/6.png)
 | 7. A Small AR APP     |  8. Non DL 3D Reconstruction  |
 ![](./pics/7.gif)  |  ![](./pics/8.png)
-| 9. Coons Patch     |  8. VRGame |
+| 9. Coons Patch     |  10. VRGame |
 ![](./pics/9.gif)  |  ![](./pics/10.gif)
