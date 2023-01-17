@@ -3,7 +3,7 @@ A collection of small computer vision projects, they are all kinds of assignment
 
 | 1.Active Contours               |  2.8Point+RANSAC |
 :------------------------------:|:-------------------------:
-![](./pics/1.png) |  ![](./pics/2.png)
+![](./pics/1.png =300x300) |  ![](./pics/2.png)
 | 3.Pose-Estimation |  4.U-net|
 ![](./pics/3.gif)  |  ![](./pics/4.png)
 | 5.A-Small-AR-APP        |  6.Traditional-3D-reconstruction |
