@@ -9,3 +9,5 @@ A collection of vision,graphics projects, they are all kinds of assignments and 
 ![](./pics/5.gif)  |  ![](./pics/6.png)
 | 7. Coons Patch     |  8. VRGame |
 ![](./pics/7.gif)  |  ![](./pics/8.gif)
+| 9. DenseNet     |  8. PointNet |
+![](./pics/7.gif)  |  ![](./pics/8.gif)
