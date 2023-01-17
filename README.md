@@ -1,5 +1,5 @@
 # Cool-Small-Vision-Graphics-Projects
-A collection of small computer vision projects, they are all kinds of assignments and projects in my master's for learning purposes.
+A collection of vision,graphics projects, they are all kinds of assignments and projects in my master's for learning purposes.
 |  1. Active Contours  |  2. 8Point+RANSAC|
 :------------------------------:|:-------------------------:
 ![](./pics/1.png)  |  ![](./pics/2.png)
