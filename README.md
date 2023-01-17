@@ -4,9 +4,11 @@ A collection of small computer vision projects, they are all kinds of assignment
 | Active Contours               |  8Point+RANSAC |
 :------------------------------:|:-------------------------:
 ![](./pics/Active Contours.png) |  ![]()
-| Italic             |  Block letters |
+| Pose-Estimation |  U-net|
 ![]()  |  ![]()
-| Italic             |  Block letters |
+| A-Small-AR-APP        |  Traditional-3D-reconstruction |
 ![]()  |  ![]()
-| Italic             |  Block letters |
+| U-Net       |  Pose-Estimation |
+![]()  |  ![]()
+| Coons Patch     |  VRGame |
 ![]()  |  ![]()
