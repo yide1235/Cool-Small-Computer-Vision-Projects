@@ -5,7 +5,7 @@ A collection of small computer vision projects, they are all kinds of assignment
 :------------------------------:|:-------------------------:
 ![](./pics/Active Contours.png) |  ![](./pics/8Point+RANSAC.png)
 | Pose-Estimation |  U-net|
-![]()  |  ![]()
+![](./pics/Pose-Estimation.gif)  |  ![]()
 | A-Small-AR-APP        |  Traditional-3D-reconstruction |
 ![]()  |  ![]()
 | U-Net       |  Pose-Estimation |
