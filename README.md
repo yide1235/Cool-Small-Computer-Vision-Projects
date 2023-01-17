@@ -3,7 +3,7 @@ A collection of small computer vision projects, they are all kinds of assignment
 
 | Active Contours               |  8Point+RANSAC |
 :------------------------------:|:-------------------------:
-![](./pics/Active Contours.png) |  ![](./pics/8Point+RANSAC.png=250x250)
+![](./pics/Active Contours.png) |  ![](./pics/8Point+RANSAC.png=2500x2500)
 | Pose-Estimation |  U-net|
 ![](./pics/Pose-Estimation.gif)  |  ![]()
 | A-Small-AR-APP        |  Traditional-3D-reconstruction |
