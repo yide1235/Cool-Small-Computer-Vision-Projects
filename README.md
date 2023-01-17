@@ -4,5 +4,9 @@ A collection of small computer vision projects, they are all kinds of assignment
 | Italic             |  Block letters |
 :-------------------------:|:-------------------------:
 ![]()  |  ![]()
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
 ![]()  |  ![]()
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
 ![]()  |  ![]()
