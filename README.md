@@ -1,2 +1,3 @@
 # Cool-small-Computer-Vision-Projects
-a collection of small computer vision projects
+A collection of small computer vision projects, they are all kinds of assignments and projects in my master for learning purposes.
+
