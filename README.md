@@ -4,7 +4,7 @@ A collection of vision,graphics projects, they are all kinds of assignments and 
 :------------------------------:|:-------------------------:
 ![](./pics/1.gif)  |  ![](./pics/2.png)
 | 3. Pose Estimation |  4. U-net|
-![](./pics/3.gif)  |  ![](./pics/4.png)
+![](./pics/3.gif)  |  ![](./pics/4.gif)
 | 5. DenseNet        |  6. PointNet |
 ![](./pics/5.png)  |  ![](./pics/6.png)
 | 7. A Small AR APP     |  8. Non DL 3D Reconstruction  |
