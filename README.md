@@ -6,7 +6,7 @@ A collection of vision,graphics projects, they are all kinds of assignments and 
 | 3. Pose Estimation |  4. U-net|
 ![](./pics/3.gif)  |  ![](./pics/4.gif)
 | 5. DenseNet        |  6. PointNet |
-![](./pics/5.png)  |  ![](./pics/6.png)
+![](./pics/5.png)  |  ![](./pics/6.gif)
 | 7. A Small AR APP     |  8. Non DL 3D Reconstruction  |
 ![](./pics/7.gif)  |  ![](./pics/8.png)
 | 9. Coons Patch     |  10. VRGame |
