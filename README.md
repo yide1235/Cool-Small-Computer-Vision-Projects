@@ -1,5 +1,5 @@
 # Cool-Small-Vision-Graphics-Projects
-A collection of vision,graphics projects, they are all kinds of assignments and projects in my master's for learning purposes.
+A collection of vision,graphics projects, they are all kinds of assignments and projects in my master's for learning purposes. Please contact yma73@sfu.ca for code.
 |  1. Active Contours  |  2. 8Point+RANSAC|
 :------------------------------:|:-------------------------:
 ![](./pics/1.gif)  |  ![](./pics/2.png)
