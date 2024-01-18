@@ -1,4 +1,4 @@
-# Cool-Small-Vision-Graphics-Projects
+# Vision-Graphics-Assignments
 A collection of vision,graphics projects, they are all kinds of assignments and projects in my master's for learning purposes.
 |  1. Active Contours  |  2. 8Point+RANSAC|
 :------------------------------:|:-------------------------:
